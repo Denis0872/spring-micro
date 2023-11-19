@@ -7,7 +7,5 @@ J
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 Ü
 Veureka-client2/src/main/java/com/example/eurekaclient2/controller/TestController2.java,f\5\f5b4346e5d0afbb29e83d6ec9515727a6627ed7e
-Å
-Qeureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java,3\f\3f4334c3cd0e166f04873349b6c1487f7718b6b8
 Ñ
 Teureka-client2/src/main/java/com/example/eurekaclient2/EurekaClient2Application.java,b\b\bbd0141adbe251ec4eb068eafabe4b570916945f
