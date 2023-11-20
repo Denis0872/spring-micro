@@ -9,11 +9,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/main")
 public class TestController {
 
+    @Value("${tmpvar}")
+    private int tmpvar;
+
     @Value("${eureka.instance.instance-id}")
     private String id;
-@GetMapping("/test")
-  public String  test(){
-        return id;
+
+    @GetMapping("/test")
+    public String test() {
+        return id + ":" + tmpvar;
     }
 
 }
