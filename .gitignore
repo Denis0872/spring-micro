@@ -2,3 +2,4 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+github-config-server/src/main/resources/application.properties
