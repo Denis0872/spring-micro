@@ -35,3 +35,4 @@ out/
 
 ### VS Code ###
 .vscode/
+/github-config-server/src/main/resources/application.properties
